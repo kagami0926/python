@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="com2.svg"
+   inkscape:export-filename="com2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0242632"
+     inkscape:cx="276.29617"
+     inkscape:cy="368.55761"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="180"
+       height="20"
+       x="15"
+       y="9.999999" />
+    <path
+       style="fill:#585858;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 105,29.999998 v 124.999992 0"
+       id="path1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 105,29.999998 31.003991,128.42999"
+       id="path4" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6"
+       cx="105"
+       cy="155"
+       rx="5"
+       ry="4.9999995" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6-7"
+       cx="30"
+       cy="130"
+       rx="5"
+       ry="4.9999995" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:0.264999, 0.529997"
+       x="104.10724"
+       y="167.01166"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.265"
+         x="104.10724"
+         y="167.01166">おもりB</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.265"
+         x="104.10724"
+         y="177.595"
+         id="tspan3" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.265"
+         x="104.10724"
+         y="188.17833"
+         id="tspan2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:0.264999, 0.529997"
+       x="6.4832854"
+       y="142.01167"
+       id="text1-8"><tspan
+         sodipodi:role="line"
+         id="tspan1-7"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.265"
+         x="6.4832854"
+         y="142.01167">おもりA</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.265"
+         x="6.4832854"
+         y="152.59502"
+         id="tspan2-7" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.253"
+       d="M 30,130 Z"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.453;stroke-dasharray:0.453,0.906;stroke-dashoffset:0"
+       d="m 30,130 c 26.11293,17.74748 51.299073,24.60747 75,24.99999 v 0"
+       id="path3"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.328;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 83.703172,58.329183 c 7.368406,5.007889 14.475287,6.943604 21.163078,7.054363 v 0"
+       id="path3-4"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
